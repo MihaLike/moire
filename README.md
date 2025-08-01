@@ -10,7 +10,7 @@
 5) Проверить созданный заказ.
 
 ## Посмотреть на GitHub Pages:
-https://happyhidra.github.io/moire/
+https://mihalike.github.io/moire/
 
 ## Setup
 npm install
